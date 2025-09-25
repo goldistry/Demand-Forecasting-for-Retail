@@ -1,2 +1,6 @@
 # Demand-Forecasting-for-Retail
-An end-to-end time-series project to forecast retail demand using 5 years of sales data. This repository covers the full data science workflow in Python, including EDA, advanced feature engineering (lags, rolling means), and building an optimized LightGBM model to improve inventory management and supply chain efficiency.
+An end-to-end demand forecasting project using Python, pandas, and LightGBM.
+- Analyzes 5 years of historical sales data across 10 stores and 50 products.
+- Engineers advanced time-series features like lags and rolling averages.
+- Builds and optimizes a LightGBM model to accurately predict future demand.
+- Goal: Provide insights for inventory optimization and reduction of stockouts.
